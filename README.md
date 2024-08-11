@@ -1,5 +1,5 @@
 # 💫 About Me:
-***Web Developer / Programmer***<br>Primarily, I solo design and code awesome websites for any business from scratch! However I do occasionally work on personal projects in my spare time at: AI, Games and Cyber Security. Check out any of my projects below!
+***Web Developer / Programmer***<br>Primarily, I design and code awesome websites! However I do occasionally work on personal projects in my spare time in: AI, Games and Cyber Security. Check out any of my projects below!
 
 
 ## 🌐 Socials:
